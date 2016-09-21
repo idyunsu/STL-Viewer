@@ -1,0 +1,176 @@
+D:\batu\triangle mesh birleştirme\triangle_mesh 1\triangle_mesh 1\bin\Debug\triangle_mesh 1.exe.config
+D:\batu\triangle mesh birleştirme\triangle_mesh 1\triangle_mesh 1\bin\Debug\triangle_mesh 1.exe
+D:\batu\triangle mesh birleştirme\triangle_mesh 1\triangle_mesh 1\bin\Debug\triangle_mesh 1.pdb
+D:\batu\triangle mesh birleştirme\triangle_mesh 1\triangle_mesh 1\obj\Debug\triangle_mesh 1.csprojResolveAssemblyReference.cache
+D:\batu\triangle mesh birleştirme\triangle_mesh 1\triangle_mesh 1\obj\Debug\triangle_mesh_1.Form1.resources
+D:\batu\triangle mesh birleştirme\triangle_mesh 1\triangle_mesh 1\obj\Debug\triangle_mesh_1.Properties.Resources.resources
+D:\batu\triangle mesh birleştirme\triangle_mesh 1\triangle_mesh 1\obj\Debug\triangle_mesh 1.csproj.GenerateResource.Cache
+D:\batu\triangle mesh birleştirme\triangle_mesh 1\triangle_mesh 1\obj\Debug\triangle_mesh 1.exe
+D:\batu\triangle mesh birleştirme\triangle_mesh 1\triangle_mesh 1\obj\Debug\triangle_mesh 1.pdb
+D:\batu\triangle mesh birleştirme 2\triangle_mesh 1\triangle_mesh 1\bin\Debug\triangle_mesh 1.exe.config
+D:\batu\triangle mesh birleştirme 2\triangle_mesh 1\triangle_mesh 1\obj\Debug\triangle_mesh 1.exe
+D:\batu\triangle mesh birleştirme 2\triangle_mesh 1\triangle_mesh 1\obj\Debug\triangle_mesh 1.pdb
+D:\batu\triangle mesh birleştirme 2\triangle_mesh 1\triangle_mesh 1\bin\Debug\triangle_mesh 1.exe
+D:\batu\triangle mesh birleştirme 2\triangle_mesh 1\triangle_mesh 1\bin\Debug\triangle_mesh 1.pdb
+D:\batu\triangle mesh birleştirme 2\triangle_mesh 1\triangle_mesh 1\obj\Debug\triangle_mesh 1.csprojResolveAssemblyReference.cache
+D:\batu\triangle mesh birleştirme 2\triangle_mesh 1\triangle_mesh 1\obj\Debug\triangle_mesh_1.Form1.resources
+D:\batu\triangle mesh birleştirme 2\triangle_mesh 1\triangle_mesh 1\obj\Debug\triangle_mesh_1.Properties.Resources.resources
+D:\batu\triangle mesh birleştirme 2\triangle_mesh 1\triangle_mesh 1\obj\Debug\triangle_mesh 1.csproj.GenerateResource.Cache
+D:\batu\C# parasolid çözümü\triangle mesh birleştirme 2\triangle_mesh 1\triangle_mesh 1\bin\Debug\triangle_mesh 1.exe.config
+D:\batu\C# parasolid çözümü\triangle mesh birleştirme 2\triangle_mesh 1\triangle_mesh 1\obj\Debug\triangle_mesh 1.exe
+D:\batu\C# parasolid çözümü\triangle mesh birleştirme 2\triangle_mesh 1\triangle_mesh 1\obj\Debug\triangle_mesh 1.pdb
+D:\batu\C# stl dosya çözümü\triangle mesh birleştirme 2\triangle_mesh 1\triangle_mesh 1\bin\Debug\triangle_mesh 1.exe.config
+D:\batu\C# stl dosya çözümü\triangle mesh birleştirme 2\triangle_mesh 1\triangle_mesh 1\obj\Debug\triangle_mesh 1.exe
+D:\batu\C# stl dosya çözümü\triangle mesh birleştirme 2\triangle_mesh 1\triangle_mesh 1\obj\Debug\triangle_mesh 1.pdb
+D:\batu\C# stl dosya çözümü\triangle mesh birleştirme 2\triangle_mesh 1\triangle_mesh 1\bin\Debug\triangle_mesh 1.exe
+D:\batu\C# stl dosya çözümü\triangle mesh birleştirme 2\triangle_mesh 1\triangle_mesh 1\bin\Debug\triangle_mesh 1.pdb
+D:\batu\C# stl dosya çözümü\triangle mesh birleştirme 2\triangle_mesh 1\triangle_mesh 1\obj\Debug\triangle_mesh 1.csprojResolveAssemblyReference.cache
+D:\batu\C# stl dosya çözümü\triangle mesh birleştirme 2\triangle_mesh 1\triangle_mesh 1\obj\Debug\triangle_mesh_1.Form1.resources
+D:\batu\C# stl dosya çözümü\triangle mesh birleştirme 2\triangle_mesh 1\triangle_mesh 1\obj\Debug\triangle_mesh_1.Properties.Resources.resources
+D:\batu\C# stl dosya çözümü\triangle mesh birleştirme 2\triangle_mesh 1\triangle_mesh 1\obj\Debug\triangle_mesh 1.csproj.GenerateResource.Cache
+D:\batu\C# stl dosya çözümü\triangle mesh birleştirme 3\triangle_mesh 1\triangle_mesh 1\bin\Debug\triangle_mesh 1.exe.config
+D:\batu\C# stl dosya çözümü\triangle mesh birleştirme 3\triangle_mesh 1\triangle_mesh 1\obj\Debug\triangle_mesh 1.exe
+D:\batu\C# stl dosya çözümü\triangle mesh birleştirme 3\triangle_mesh 1\triangle_mesh 1\obj\Debug\triangle_mesh 1.pdb
+D:\batu\C# stl dosya çözümü\triangle mesh birleştirme 3\triangle_mesh 1\triangle_mesh 1\bin\Debug\triangle_mesh 1.exe
+D:\batu\C# stl dosya çözümü\triangle mesh birleştirme 3\triangle_mesh 1\triangle_mesh 1\bin\Debug\triangle_mesh 1.pdb
+D:\batu\C# stl dosya çözümü\triangle mesh birleştirme 3\triangle_mesh 1\triangle_mesh 1\obj\Debug\triangle_mesh 1.csprojResolveAssemblyReference.cache
+D:\batu\C# stl dosya çözümü\triangle mesh birleştirme 3\triangle_mesh 1\triangle_mesh 1\obj\Debug\triangle_mesh_1.Form1.resources
+D:\batu\C# stl dosya çözümü\triangle mesh birleştirme 3\triangle_mesh 1\triangle_mesh 1\obj\Debug\triangle_mesh_1.Properties.Resources.resources
+D:\batu\C# stl dosya çözümü\triangle mesh birleştirme 3\triangle_mesh 1\triangle_mesh 1\obj\Debug\triangle_mesh 1.csproj.GenerateResource.Cache
+D:\batu\C# stl dosya çözümü\triangle mesh birleştirme 4\triangle_mesh 1\triangle_mesh 1\bin\Debug\triangle_mesh 1.exe.config
+D:\batu\C# stl dosya çözümü\triangle mesh birleştirme 4\triangle_mesh 1\triangle_mesh 1\obj\Debug\triangle_mesh 1.exe
+D:\batu\C# stl dosya çözümü\triangle mesh birleştirme 4\triangle_mesh 1\triangle_mesh 1\obj\Debug\triangle_mesh 1.pdb
+D:\batu\C# stl dosya çözümü\triangle mesh birleştirme 4\triangle_mesh 1\triangle_mesh 1\bin\Debug\triangle_mesh 1.exe
+D:\batu\C# stl dosya çözümü\triangle mesh birleştirme 4\triangle_mesh 1\triangle_mesh 1\bin\Debug\triangle_mesh 1.pdb
+D:\batu\C# stl dosya çözümü\triangle mesh birleştirme 4\triangle_mesh 1\triangle_mesh 1\obj\Debug\triangle_mesh 1.csprojResolveAssemblyReference.cache
+D:\batu\C# stl dosya çözümü\triangle mesh birleştirme 4\triangle_mesh 1\triangle_mesh 1\obj\Debug\triangle_mesh_1.Form1.resources
+D:\batu\C# stl dosya çözümü\triangle mesh birleştirme 4\triangle_mesh 1\triangle_mesh 1\obj\Debug\triangle_mesh_1.Properties.Resources.resources
+D:\batu\C# stl dosya çözümü\triangle mesh birleştirme 4\triangle_mesh 1\triangle_mesh 1\obj\Debug\triangle_mesh 1.csproj.GenerateResource.Cache
+D:\batu\C# stl dosya çözümü\triangle mesh birleştirme 5\triangle_mesh 1\triangle_mesh 1\bin\Debug\triangle_mesh 1.exe.config
+D:\batu\C# stl dosya çözümü\triangle mesh birleştirme 5\triangle_mesh 1\triangle_mesh 1\obj\Debug\triangle_mesh 1.exe
+D:\batu\C# stl dosya çözümü\triangle mesh birleştirme 5\triangle_mesh 1\triangle_mesh 1\obj\Debug\triangle_mesh 1.pdb
+D:\batu\C# stl dosya çözümü\triangle mesh birleştirme 5\triangle_mesh 1\triangle_mesh 1\bin\Debug\triangle_mesh 1.exe
+D:\batu\C# stl dosya çözümü\triangle mesh birleştirme 5\triangle_mesh 1\triangle_mesh 1\bin\Debug\triangle_mesh 1.pdb
+D:\batu\C# stl dosya çözümü\triangle mesh birleştirme 5\triangle_mesh 1\triangle_mesh 1\obj\Debug\triangle_mesh 1.csprojResolveAssemblyReference.cache
+D:\batu\C# stl dosya çözümü\triangle mesh birleştirme 5\triangle_mesh 1\triangle_mesh 1\obj\Debug\triangle_mesh_1.Form1.resources
+D:\batu\C# stl dosya çözümü\triangle mesh birleştirme 5\triangle_mesh 1\triangle_mesh 1\obj\Debug\triangle_mesh_1.Properties.Resources.resources
+D:\batu\C# stl dosya çözümü\triangle mesh birleştirme 5\triangle_mesh 1\triangle_mesh 1\obj\Debug\triangle_mesh 1.csproj.GenerateResource.Cache
+D:\batu\C# stl dosya çözümü\triangle mesh birleştirme 6\triangle_mesh 1\triangle_mesh 1\bin\Debug\triangle_mesh 1.exe.config
+D:\batu\C# stl dosya çözümü\triangle mesh birleştirme 6\triangle_mesh 1\triangle_mesh 1\obj\Debug\triangle_mesh 1.exe
+D:\batu\C# stl dosya çözümü\triangle mesh birleştirme 6\triangle_mesh 1\triangle_mesh 1\obj\Debug\triangle_mesh 1.pdb
+D:\batu\C# stl dosya çözümü\triangle mesh birleştirme 6\triangle_mesh 1\triangle_mesh 1\obj\Debug\triangle_mesh 1.csprojResolveAssemblyReference.cache
+D:\batu\C# stl dosya çözümü\triangle mesh birleştirme 6\triangle_mesh 1\triangle_mesh 1\obj\Debug\triangle_mesh_1.Form1.resources
+D:\batu\C# stl dosya çözümü\triangle mesh birleştirme 6\triangle_mesh 1\triangle_mesh 1\obj\Debug\triangle_mesh_1.Properties.Resources.resources
+D:\batu\C# stl dosya çözümü\triangle mesh birleştirme 6\triangle_mesh 1\triangle_mesh 1\obj\Debug\triangle_mesh 1.csproj.GenerateResource.Cache
+D:\batu\C# stl dosya çözümü\triangle mesh birleştirme 6\triangle_mesh 1\triangle_mesh 1\bin\Debug\triangle_mesh 1.exe
+D:\batu\C# stl dosya çözümü\triangle mesh birleştirme 6\triangle_mesh 1\triangle_mesh 1\bin\Debug\triangle_mesh 1.pdb
+D:\batu\C# stl dosya çözümü\triangle mesh birleştirme 7\triangle_mesh 1\triangle_mesh 1\bin\Debug\triangle_mesh 1.exe.config
+D:\batu\C# stl dosya çözümü\triangle mesh birleştirme 7\triangle_mesh 1\triangle_mesh 1\obj\Debug\triangle_mesh 1.exe
+D:\batu\C# stl dosya çözümü\triangle mesh birleştirme 7\triangle_mesh 1\triangle_mesh 1\obj\Debug\triangle_mesh 1.pdb
+D:\batu\C# stl dosya çözümü\triangle mesh birleştirme 7\triangle_mesh 1\triangle_mesh 1\obj\Debug\triangle_mesh 1.csprojResolveAssemblyReference.cache
+D:\batu\C# stl dosya çözümü\triangle mesh birleştirme 7\triangle_mesh 1\triangle_mesh 1\obj\Debug\triangle_mesh_1.Form1.resources
+D:\batu\C# stl dosya çözümü\triangle mesh birleştirme 7\triangle_mesh 1\triangle_mesh 1\obj\Debug\triangle_mesh_1.Properties.Resources.resources
+D:\batu\C# stl dosya çözümü\triangle mesh birleştirme 7\triangle_mesh 1\triangle_mesh 1\obj\Debug\triangle_mesh 1.csproj.GenerateResource.Cache
+D:\batu\C# stl dosya çözümü\triangle mesh birleştirme 7\triangle_mesh 1\triangle_mesh 1\bin\Debug\triangle_mesh 1.exe
+D:\batu\C# stl dosya çözümü\triangle mesh birleştirme 7\triangle_mesh 1\triangle_mesh 1\bin\Debug\triangle_mesh 1.pdb
+D:\batu\C# stl dosya çözümü\triangle mesh birleştirme 8\triangle_mesh 1\triangle_mesh 1\bin\Debug\triangle_mesh 1.exe.config
+D:\batu\C# stl dosya çözümü\triangle mesh birleştirme 8\triangle_mesh 1\triangle_mesh 1\obj\Debug\triangle_mesh 1.exe
+D:\batu\C# stl dosya çözümü\triangle mesh birleştirme 8\triangle_mesh 1\triangle_mesh 1\obj\Debug\triangle_mesh 1.pdb
+D:\batu\C# stl dosya çözümü\triangle mesh birleştirme 8\triangle_mesh 1\triangle_mesh 1\bin\Debug\triangle_mesh 1.exe
+D:\batu\C# stl dosya çözümü\triangle mesh birleştirme 8\triangle_mesh 1\triangle_mesh 1\bin\Debug\triangle_mesh 1.pdb
+D:\batu\C# stl dosya çözümü\triangle mesh birleştirme 8\triangle_mesh 1\triangle_mesh 1\obj\Debug\triangle_mesh 1.csprojResolveAssemblyReference.cache
+D:\batu\C# stl dosya çözümü\triangle mesh birleştirme 8\triangle_mesh 1\triangle_mesh 1\obj\Debug\triangle_mesh_1.Form1.resources
+D:\batu\C# stl dosya çözümü\triangle mesh birleştirme 8\triangle_mesh 1\triangle_mesh 1\obj\Debug\triangle_mesh_1.Properties.Resources.resources
+D:\batu\C# stl dosya çözümü\triangle mesh birleştirme 8\triangle_mesh 1\triangle_mesh 1\obj\Debug\triangle_mesh 1.csproj.GenerateResource.Cache
+D:\batu\C# stl dosya çözümü\triangle mesh birleştirme 9\triangle_mesh 1\triangle_mesh 1\bin\Debug\triangle_mesh 1.exe.config
+D:\batu\C# stl dosya çözümü\triangle mesh birleştirme 9\triangle_mesh 1\triangle_mesh 1\obj\Debug\triangle_mesh 1.exe
+D:\batu\C# stl dosya çözümü\triangle mesh birleştirme 9\triangle_mesh 1\triangle_mesh 1\obj\Debug\triangle_mesh 1.pdb
+D:\batu\C# stl dosya çözümü\triangle mesh birleştirme 9\triangle_mesh 1\triangle_mesh 1\bin\Debug\triangle_mesh 1.exe
+D:\batu\C# stl dosya çözümü\triangle mesh birleştirme 9\triangle_mesh 1\triangle_mesh 1\bin\Debug\triangle_mesh 1.pdb
+D:\batu\C# stl dosya çözümü\triangle mesh birleştirme 9\triangle_mesh 1\triangle_mesh 1\obj\Debug\triangle_mesh 1.csprojResolveAssemblyReference.cache
+D:\batu\C# stl dosya çözümü\triangle mesh birleştirme 9\triangle_mesh 1\triangle_mesh 1\obj\Debug\triangle_mesh_1.Form1.resources
+D:\batu\C# stl dosya çözümü\triangle mesh birleştirme 9\triangle_mesh 1\triangle_mesh 1\obj\Debug\triangle_mesh_1.Properties.Resources.resources
+D:\batu\C# stl dosya çözümü\triangle mesh birleştirme 9\triangle_mesh 1\triangle_mesh 1\obj\Debug\triangle_mesh 1.csproj.GenerateResource.Cache
+D:\batu\C# stl dosya çözümü\triangle mesh birleştirme 9 tam ekran\triangle_mesh 1\triangle_mesh 1\bin\Debug\triangle_mesh 1.exe.config
+D:\batu\C# stl dosya çözümü\triangle mesh birleştirme 9 tam ekran\triangle_mesh 1\triangle_mesh 1\obj\Debug\triangle_mesh 1.exe
+D:\batu\C# stl dosya çözümü\triangle mesh birleştirme 9 tam ekran\triangle_mesh 1\triangle_mesh 1\obj\Debug\triangle_mesh 1.pdb
+D:\batu\C# stl dosya çözümü\triangle mesh birleştirme 10 tam ekran\triangle_mesh 1\triangle_mesh 1\bin\Debug\triangle_mesh 1.exe.config
+D:\batu\C# stl dosya çözümü\triangle mesh birleştirme 10 tam ekran\triangle_mesh 1\triangle_mesh 1\obj\Debug\triangle_mesh 1.exe
+D:\batu\C# stl dosya çözümü\triangle mesh birleştirme 10 tam ekran\triangle_mesh 1\triangle_mesh 1\obj\Debug\triangle_mesh 1.pdb
+D:\batu\C# stl dosya çözümü\triangle mesh birleştirme 10 tam ekran\triangle_mesh 1\triangle_mesh 1\bin\Debug\triangle_mesh 1.exe
+D:\batu\C# stl dosya çözümü\triangle mesh birleştirme 10 tam ekran\triangle_mesh 1\triangle_mesh 1\bin\Debug\triangle_mesh 1.pdb
+D:\batu\C# stl dosya çözümü\triangle mesh birleştirme 10 tam ekran\triangle_mesh 1\triangle_mesh 1\obj\Debug\triangle_mesh 1.csprojResolveAssemblyReference.cache
+D:\batu\C# stl dosya çözümü\triangle mesh birleştirme 10 tam ekran\triangle_mesh 1\triangle_mesh 1\obj\Debug\triangle_mesh_1.Form1.resources
+D:\batu\C# stl dosya çözümü\triangle mesh birleştirme 10 tam ekran\triangle_mesh 1\triangle_mesh 1\obj\Debug\triangle_mesh_1.Properties.Resources.resources
+D:\batu\C# stl dosya çözümü\triangle mesh birleştirme 10 tam ekran\triangle_mesh 1\triangle_mesh 1\obj\Debug\triangle_mesh 1.csproj.GenerateResource.Cache
+D:\batu\C# stl dosya çözümü\triangle mesh birleştirme 11\triangle_mesh 1\triangle_mesh 1\bin\Debug\triangle_mesh 1.exe.config
+D:\batu\C# stl dosya çözümü\triangle mesh birleştirme 11\triangle_mesh 1\triangle_mesh 1\obj\Debug\triangle_mesh 1.exe
+D:\batu\C# stl dosya çözümü\triangle mesh birleştirme 11\triangle_mesh 1\triangle_mesh 1\obj\Debug\triangle_mesh 1.pdb
+D:\batu\C# stl dosya çözümü\triangle mesh birleştirme 11\triangle_mesh 1\triangle_mesh 1\bin\Debug\triangle_mesh 1.exe
+D:\batu\C# stl dosya çözümü\triangle mesh birleştirme 11\triangle_mesh 1\triangle_mesh 1\bin\Debug\triangle_mesh 1.pdb
+D:\batu\C# stl dosya çözümü\triangle mesh birleştirme 11\triangle_mesh 1\triangle_mesh 1\obj\Debug\triangle_mesh 1.csprojResolveAssemblyReference.cache
+D:\batu\C# stl dosya çözümü\triangle mesh birleştirme 11\triangle_mesh 1\triangle_mesh 1\obj\Debug\triangle_mesh_1.Form1.resources
+D:\batu\C# stl dosya çözümü\triangle mesh birleştirme 11\triangle_mesh 1\triangle_mesh 1\obj\Debug\triangle_mesh_1.Properties.Resources.resources
+D:\batu\C# stl dosya çözümü\triangle mesh birleştirme 11\triangle_mesh 1\triangle_mesh 1\obj\Debug\triangle_mesh 1.csproj.GenerateResource.Cache
+D:\batu\C# stl dosya çözümü\triangle mesh birleştirme 11 - Kopya\triangle_mesh 1\triangle_mesh 1\bin\Debug\triangle_mesh 1.exe.config
+D:\batu\C# stl dosya çözümü\triangle mesh birleştirme 11 - Kopya\triangle_mesh 1\triangle_mesh 1\obj\Debug\triangle_mesh 1.exe
+D:\batu\C# stl dosya çözümü\triangle mesh birleştirme 11 - Kopya\triangle_mesh 1\triangle_mesh 1\obj\Debug\triangle_mesh 1.pdb
+D:\batu\C# stl dosya çözümü\triangle mesh birleştirme 11 - Kopya\triangle_mesh 1\triangle_mesh 1\bin\Debug\triangle_mesh 1.exe
+D:\batu\C# stl dosya çözümü\triangle mesh birleştirme 11 - Kopya\triangle_mesh 1\triangle_mesh 1\bin\Debug\triangle_mesh 1.pdb
+D:\batu\C# stl dosya çözümü\triangle mesh birleştirme 11 - Kopya\triangle_mesh 1\triangle_mesh 1\obj\Debug\triangle_mesh 1.csprojResolveAssemblyReference.cache
+D:\batu\C# stl dosya çözümü\triangle mesh birleştirme 11 - Kopya\triangle_mesh 1\triangle_mesh 1\obj\Debug\triangle_mesh_1.Form1.resources
+D:\batu\C# stl dosya çözümü\triangle mesh birleştirme 11 - Kopya\triangle_mesh 1\triangle_mesh 1\obj\Debug\triangle_mesh_1.Properties.Resources.resources
+D:\batu\C# stl dosya çözümü\triangle mesh birleştirme 11 - Kopya\triangle_mesh 1\triangle_mesh 1\obj\Debug\triangle_mesh 1.csproj.GenerateResource.Cache
+D:\batu\C# stl dosya çözümü\triangle mesh birleştirme 12\triangle_mesh 1\triangle_mesh 1\bin\Debug\triangle_mesh 1.exe.config
+D:\batu\C# stl dosya çözümü\triangle mesh birleştirme 12\triangle_mesh 1\triangle_mesh 1\obj\Debug\triangle_mesh 1.exe
+D:\batu\C# stl dosya çözümü\triangle mesh birleştirme 12\triangle_mesh 1\triangle_mesh 1\obj\Debug\triangle_mesh 1.pdb
+D:\batu\C# stl dosya çözümü\triangle mesh birleştirme 12\triangle_mesh 1\triangle_mesh 1\bin\Debug\triangle_mesh 1.exe
+D:\batu\C# stl dosya çözümü\triangle mesh birleştirme 12\triangle_mesh 1\triangle_mesh 1\bin\Debug\triangle_mesh 1.pdb
+D:\batu\C# stl dosya çözümü\triangle mesh birleştirme 12\triangle_mesh 1\triangle_mesh 1\obj\Debug\triangle_mesh 1.csprojResolveAssemblyReference.cache
+D:\batu\C# stl dosya çözümü\triangle mesh birleştirme 12\triangle_mesh 1\triangle_mesh 1\obj\Debug\triangle_mesh_1.Form1.resources
+D:\batu\C# stl dosya çözümü\triangle mesh birleştirme 12\triangle_mesh 1\triangle_mesh 1\obj\Debug\triangle_mesh_1.Properties.Resources.resources
+D:\batu\C# stl dosya çözümü\triangle mesh birleştirme 12\triangle_mesh 1\triangle_mesh 1\obj\Debug\triangle_mesh 1.csproj.GenerateResource.Cache
+D:\batu\C# stl dosya çözümü\triangle mesh birleştirme 13 timer ile yenileme\triangle_mesh 1\triangle_mesh 1\bin\Debug\triangle_mesh 1.exe.config
+D:\batu\C# stl dosya çözümü\triangle mesh birleştirme 13 timer ile yenileme\triangle_mesh 1\triangle_mesh 1\obj\Debug\triangle_mesh 1.exe
+D:\batu\C# stl dosya çözümü\triangle mesh birleştirme 13 timer ile yenileme\triangle_mesh 1\triangle_mesh 1\obj\Debug\triangle_mesh 1.pdb
+D:\batu\C# stl dosya çözümü\triangle mesh birleştirme 13 timer ile yenileme\triangle_mesh 1\triangle_mesh 1\bin\Debug\triangle_mesh 1.exe
+D:\batu\C# stl dosya çözümü\triangle mesh birleştirme 13 timer ile yenileme\triangle_mesh 1\triangle_mesh 1\bin\Debug\triangle_mesh 1.pdb
+D:\batu\C# stl dosya çözümü\triangle mesh birleştirme 13 timer ile yenileme\triangle_mesh 1\triangle_mesh 1\obj\Debug\triangle_mesh 1.csprojResolveAssemblyReference.cache
+D:\batu\C# stl dosya çözümü\triangle mesh birleştirme 13 timer ile yenileme\triangle_mesh 1\triangle_mesh 1\obj\Debug\triangle_mesh_1.Form1.resources
+D:\batu\C# stl dosya çözümü\triangle mesh birleştirme 13 timer ile yenileme\triangle_mesh 1\triangle_mesh 1\obj\Debug\triangle_mesh_1.Properties.Resources.resources
+D:\batu\C# stl dosya çözümü\triangle mesh birleştirme 13 timer ile yenileme\triangle_mesh 1\triangle_mesh 1\obj\Debug\triangle_mesh 1.csproj.GenerateResource.Cache
+C:\Users\arge\Desktop\stl list deneme\triangle mesh birleştirme 13\triangle_mesh 1\triangle_mesh 1\bin\Debug\triangle_mesh 1.exe.config
+C:\Users\arge\Desktop\stl list deneme\triangle mesh birleştirme 13\triangle_mesh 1\triangle_mesh 1\obj\Debug\triangle_mesh 1.exe
+C:\Users\arge\Desktop\stl list deneme\triangle mesh birleştirme 13\triangle_mesh 1\triangle_mesh 1\obj\Debug\triangle_mesh 1.pdb
+C:\Users\arge\Desktop\stl list deneme\triangle mesh birleştirme 13\triangle_mesh 1\triangle_mesh 1\bin\Debug\triangle_mesh 1.exe
+C:\Users\arge\Desktop\stl list deneme\triangle mesh birleştirme 13\triangle_mesh 1\triangle_mesh 1\bin\Debug\triangle_mesh 1.pdb
+C:\Users\arge\Desktop\stl list deneme\triangle mesh birleştirme 13\triangle_mesh 1\triangle_mesh 1\obj\Debug\triangle_mesh 1.csprojResolveAssemblyReference.cache
+C:\Users\arge\Desktop\stl list deneme\triangle mesh birleştirme 13\triangle_mesh 1\triangle_mesh 1\obj\Debug\triangle_mesh_1.Form1.resources
+C:\Users\arge\Desktop\stl list deneme\triangle mesh birleştirme 13\triangle_mesh 1\triangle_mesh 1\obj\Debug\triangle_mesh_1.Properties.Resources.resources
+C:\Users\arge\Desktop\stl list deneme\triangle mesh birleştirme 13\triangle_mesh 1\triangle_mesh 1\obj\Debug\triangle_mesh 1.csproj.GenerateResource.Cache
+C:\Users\arge\Desktop\stl list deneme\triangle mesh birleştirme 13 list\triangle_mesh 1\triangle_mesh 1\bin\Debug\triangle_mesh 1.exe.config
+C:\Users\arge\Desktop\stl list deneme\triangle mesh birleştirme 13 list\triangle_mesh 1\triangle_mesh 1\obj\Debug\triangle_mesh 1.exe
+C:\Users\arge\Desktop\stl list deneme\triangle mesh birleştirme 13 list\triangle_mesh 1\triangle_mesh 1\obj\Debug\triangle_mesh 1.pdb
+C:\Users\arge\Desktop\stl list deneme\triangle mesh birleştirme 13 list\triangle_mesh 1\triangle_mesh 1\bin\Debug\triangle_mesh 1.exe
+C:\Users\arge\Desktop\stl list deneme\triangle mesh birleştirme 13 list\triangle_mesh 1\triangle_mesh 1\bin\Debug\triangle_mesh 1.pdb
+C:\Users\arge\Desktop\stl list deneme\triangle mesh birleştirme 13 list\triangle_mesh 1\triangle_mesh 1\obj\Debug\triangle_mesh_1.Form1.resources
+C:\Users\arge\Desktop\stl list deneme\triangle mesh birleştirme 13 list\triangle_mesh 1\triangle_mesh 1\obj\Debug\triangle_mesh_1.Properties.Resources.resources
+C:\Users\arge\Desktop\stl list deneme\triangle mesh birleştirme 13 list\triangle_mesh 1\triangle_mesh 1\obj\Debug\triangle_mesh 1.csproj.GenerateResource.Cache
+C:\Users\arge\Desktop\stl_viewer\triangle_mesh 1\triangle_mesh 1\bin\Debug\triangle_mesh 1.exe.config
+C:\Users\arge\Desktop\stl_viewer\triangle_mesh 1\triangle_mesh 1\obj\Debug\triangle_mesh 1.exe
+C:\Users\arge\Desktop\stl_viewer\triangle_mesh 1\triangle_mesh 1\obj\Debug\triangle_mesh 1.pdb
+C:\Users\arge\Desktop\stl_viewer\triangle_mesh 1\triangle_mesh 1\bin\Debug\triangle_mesh 1.exe
+C:\Users\arge\Desktop\stl_viewer\triangle_mesh 1\triangle_mesh 1\bin\Debug\triangle_mesh 1.pdb
+C:\Users\arge\Desktop\stl_viewer\triangle_mesh 1\triangle_mesh 1\obj\Debug\triangle_mesh 1.csprojResolveAssemblyReference.cache
+C:\Users\arge\Desktop\stl_viewer\triangle_mesh 1\triangle_mesh 1\obj\Debug\triangle_mesh_1.Form1.resources
+C:\Users\arge\Desktop\stl_viewer\triangle_mesh 1\triangle_mesh 1\obj\Debug\triangle_mesh_1.Properties.Resources.resources
+C:\Users\arge\Desktop\stl_viewer\triangle_mesh 1\triangle_mesh 1\obj\Debug\triangle_mesh 1.csproj.GenerateResource.Cache
+C:\Users\arge\Desktop\stl_viewer\stl_viewer\triangle_mesh 1\bin\Debug\triangle_mesh 1.exe.config
+C:\Users\arge\Desktop\stl_viewer\stl_viewer\triangle_mesh 1\obj\Debug\triangle_mesh 1.exe
+C:\Users\arge\Desktop\stl_viewer\stl_viewer\triangle_mesh 1\obj\Debug\triangle_mesh 1.pdb
+C:\Users\arge\Desktop\stl_viewer\stl_viewer\triangle_mesh 1\bin\Debug\triangle_mesh 1.exe
+C:\Users\arge\Desktop\stl_viewer\stl_viewer\triangle_mesh 1\bin\Debug\triangle_mesh 1.pdb
+C:\Users\arge\Desktop\stl_viewer\stl_viewer\triangle_mesh 1\obj\Debug\triangle_mesh 1.csprojResolveAssemblyReference.cache
+C:\Users\arge\Desktop\stl_viewer\stl_viewer\triangle_mesh 1\obj\Debug\triangle_mesh_1.Form1.resources
+C:\Users\arge\Desktop\stl_viewer\stl_viewer\triangle_mesh 1\obj\Debug\triangle_mesh_1.Properties.Resources.resources
+C:\Users\arge\Desktop\stl_viewer\stl_viewer\triangle_mesh 1\obj\Debug\triangle_mesh 1.csproj.GenerateResource.Cache
